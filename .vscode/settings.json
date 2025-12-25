@@ -1,4 +1,5 @@
 {
     "editor.suggest.showStatusBar": true,
-    "telemetry.editStats.showStatusBar": false
+    "telemetry.editStats.showStatusBar": false,
+    "postman.settings.dotenv-detection-notification-visibility": false
 }
